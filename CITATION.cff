@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Angel '
+    family-names: Juarez
+    email: L22210417@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico de Tijuana
+  - given-names: Celia
+    family-names: Hernandez
+    email: L22210415@tectijuana.edu.mx
+    affiliation: Instituto tecnologico de Tijuana
+url: 'https://github.com/JuarezAng/MSF-Practica-1'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-03-07'
